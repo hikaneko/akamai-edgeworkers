@@ -10,6 +10,7 @@ export async function responseProvider(request) {
   let sig = ""
   let err_msg = ""
 
+  // key is sample
   let cryptoKey = await crypto.subtle.importKey(
           "jwk",
           {"crv":"P-256","ext":false,"key_ops":["verify"],"kty":"EC","x":"Ttiko0FT0Eg7pAtW9u_l07waClao36qLlV8GHNqFjKM","y":"QuUcij33jYXB0Rf7ZODNhduL4wKSzeKZQjlLqFFxAH8"},
