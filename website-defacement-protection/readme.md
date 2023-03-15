@@ -1,4 +1,4 @@
-# Website Defacement Monitoring with Akamai EdgeWorkers/EdgeKV
+# Website Defacement Protection with Akamai EdgeWorkers/EdgeKV
 
 Akamai Edge Computing Solutions ([EdgeWorkers](https://techdocs.akamai.com/edgeworkers/docs) & [EdgeKV](https://techdocs.akamai.com/edgekv/docs)) validate content to prevent website defacement.
 
