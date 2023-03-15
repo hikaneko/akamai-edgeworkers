@@ -23,8 +23,7 @@ However, if it's falsified, the alternative content is constructed and delivered
 
 - To validate a content, [Crypt Built-In module](https://techdocs.akamai.com/edgeworkers/docs/crypto) is used
 - To use webhook of Slack, [http-request Built-In](https://techdocs.akamai.com/edgeworkers/docs/http-request) module is used
-- It takes around 10 seconds to deploy the data on Akamai network ([Inconsistency window
-](https://techdocs.akamai.com/edgekv/docs/edgekv-data-model))
+- It takes around 10 seconds to deploy the KV data on Akamai network ([Inconsistency window](https://techdocs.akamai.com/edgekv/docs/edgekv-data-model))
 
 ### How to use a webhook of [Slack](https://api.slack.com/messaging/webhooks) on EdgeWorkers
 
