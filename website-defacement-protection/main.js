@@ -40,8 +40,6 @@ export async function responseProvider(request) {
       err_msg = error.toString();
       logger.log (err_msg);
     }
-    
-    logger.log ("sig:" + data_kv + ";data:" + data_body + ";data64:" + data);
 
     data = base64.decode(data);
     sig = base64.decode(data_kv);
