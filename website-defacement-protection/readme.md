@@ -37,3 +37,4 @@ To send a request to Slack, the property manager of Akamai can configured like a
 * [EdgeWorkers API Reference](https://techdocs.akamai.com/edgeworkers/reference/api)
 * [Akamai CLI for EdgeWorkers/EKV](https://developer.akamai.com/legacy/cli/packages/edgeworkers.html)
 * [EdgeWorkers Developer Page](https://developer.akamai.com/edgeworkers)
+* [EdgeKV Product Limits](https://techdocs.akamai.com/edgekv/docs/limits)
