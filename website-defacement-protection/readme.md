@@ -14,9 +14,11 @@ Akamai Edge Computing Solutions ([EdgeWorkers](https://techdocs.akamai.com/edgew
 ### Demo
 
 When a website is normal, Akamai EdgeWorkers pass through the content.
+
 ![normal](./normal.png)
 
 However, if it's falsified, the alternative content is constructed and delivered by EdgeWorkers 
+
 ![compromised](./compromised.png)
 
 ### Note
